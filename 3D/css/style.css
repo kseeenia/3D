@@ -1,0 +1,19 @@
+body{
+  font-family: 'Lucida Sans Unicode';
+  font-size: large;
+  text-align: center;
+}
+#header {
+  display: flex;
+ 
+  justify-content: center;
+}
+
+.hide {
+  display: none !important;
+}
+
+
+#graph3D:focus {
+  outline: none;
+}
